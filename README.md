@@ -34,9 +34,9 @@ Navigate to the specific project directory you're interested in and follow the i
 
 ## Projects
 
-1. **Project Name 1**: Brain tumor classification using CNN.
-2. **Project Name 2**: CNN Model for Fashion MNIST.
-3. **Project Name 3**: Predicting covid19 cases using RNN GRU Model.
+1. **Brain tumor classification using CNN**
+2. **CNN Model for Fashion MNIST**
+3. **Predicting covid19 cases using RNN GRU Model**
    
 
 Each project directory contains its own README.md file with detailed instructions on how to run the project, dataset information, and any additional notes.
